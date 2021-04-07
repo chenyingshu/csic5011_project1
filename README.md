@@ -5,7 +5,7 @@ CSIC 5011 / MATH 6437 Mini Project
 
 - YS. CHEN
 - WH. SUM
-- HP. YIP
+- HP. IP
 - ZP. WU
 
 

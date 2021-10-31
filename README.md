@@ -1,5 +1,5 @@
 # csic5011_project1
-CSIC 5011 / MATH 6437 Mini Project
+CSIC 5011 / MATH 5473 Mini Project
 
 #### Members:
 
